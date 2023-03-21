@@ -1,16 +1,7 @@
-# consumo_de_api
+# Working with API on Flutter
 
-A new Flutter project.
+English:
+Working with API on Flutter using Dio and http packages with erro handling.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Português:
+Consumo de API no Flutter usando os packages Dio e http com tratamento de erros.
